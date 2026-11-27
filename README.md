@@ -1,6 +1,6 @@
-<p align="center"><img src="assets/banner.svg" alt="Free AI Tools Directory" width="100%"></p>
+<p align="center"><img src="assets/banner.svg" alt="Best Free AI Tools Directory" width="100%"></p>
 
-# Free AI Tools Directory
+# Best Free AI Tools Directory
 
 <p align="center">
   <img src="https://img.shields.io/badge/Catalog-31%2C563-007ec6" alt="Catalog listings">
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/github/last-commit/vaibcc/free-ai-tools-directory" alt="Last commit">
 </p>
 
-Browse AI software, open-source projects and development resources across the categories actually present in the catalog.
+Discover AI image generators, video tools, coding assistants, AI agents, automation software, local AI models and open-source alternatives. Compare projects and check free access and licensing.
 
 **[Explore the interactive directory](https://vaibcc.github.io/free-ai-tools-directory/)** · [Download full JSON catalog](data/tools.json) · [Suggest a project](https://github.com/vaibcc/free-ai-tools-directory/issues)
 
