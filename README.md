@@ -1,4 +1,21 @@
-# VAIB AI Atlas · Free AI Tools Directory
+<p align="center"><img src="assets/banner.svg" alt="Free AI Tools Directory" width="100%"></p>
+
+<h1 align="center">Free AI Tools Directory</h1>
+
+<p align="center">
+  <a href="https://vaibcc.github.io/free-ai-tools-directory/"><strong>Explore the directory →</strong></a> ·
+  <a href="data/tools.json">Download JSON</a> ·
+  <a href="https://github.com/vaibcc/free-ai-tools-directory/issues">Suggest a tool</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Categories-281-087f8c" alt="281 defined subcategories">
+  <img src="https://img.shields.io/badge/Catalog-62_candidates-blue" alt="62 candidates">
+  <img src="https://img.shields.io/badge/Roadmap-10%2C000%2B-7558c9" alt="10,000+ target">
+  <img src="https://img.shields.io/badge/Access-Free-198754" alt="Free directory access">
+</p>
+
+---
 
 A comprehensive, continuously updated directory of free AI tools, open-source projects, local AI models, free APIs and self-hosted AI solutions.
 
@@ -10,7 +27,7 @@ Current inventory: 62 candidate listings; free access verification pending. No c
 
 [Website](https://vaibcc.github.io/free-ai-tools-directory/) · [JSON catalog](data/tools.json) · [Full taxonomy](data/categories.json)
 
-## Category index
+## Explore by category
 
 ### Assistants
 
@@ -76,7 +93,7 @@ UI generation · UX research · Wireframes · Prototyping · Logo generation · 
 
 Medical research · Bioinformatics · Drug discovery · Chemistry · Physics · Climate science · Agriculture · Robotics · Autonomous driving · Geospatial analysis · Remote sensing · Manufacturing · Predictive maintenance · Energy · Legal research · Financial research · Accessibility tools · Sign language · Scientific simulation · Materials science
 
-## Current repository listings
+## Tool directory
 
 ### Local AI
 
