@@ -1,0 +1,498 @@
+[
+  {
+    "name": "ollama",
+    "url": "https://github.com/ollama/ollama",
+    "category": "Local AI",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "category": "Local AI",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "open-webui",
+    "url": "https://github.com/open-webui/open-webui",
+    "category": "Local AI",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "LocalAI",
+    "url": "https://github.com/mudler/LocalAI",
+    "category": "Local AI",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "category": "Local AI",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "category": "Local AI",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "llamafile",
+    "url": "https://github.com/Mozilla-Ocho/llamafile",
+    "category": "Local AI",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "vllm",
+    "url": "https://github.com/vllm-project/vllm",
+    "category": "Local AI",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "text-generation-inference",
+    "url": "https://github.com/huggingface/text-generation-inference",
+    "category": "Local AI",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "langchain",
+    "url": "https://github.com/langchain-ai/langchain",
+    "category": "AI agents",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "langgraph",
+    "url": "https://github.com/langchain-ai/langgraph",
+    "category": "AI agents",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "autogen",
+    "url": "https://github.com/microsoft/autogen",
+    "category": "AI agents",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "crewAI",
+    "url": "https://github.com/crewAIInc/crewAI",
+    "category": "AI agents",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "llama_index",
+    "url": "https://github.com/run-llama/llama_index",
+    "category": "AI agents",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "OpenHands",
+    "url": "https://github.com/All-Hands-AI/OpenHands",
+    "category": "AI agents",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "category": "AI agents",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "browser-use",
+    "url": "https://github.com/browser-use/browser-use",
+    "category": "AI agents",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "continue",
+    "url": "https://github.com/continuedev/continue",
+    "category": "Coding",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "aider",
+    "url": "https://github.com/Aider-AI/aider",
+    "category": "Coding",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "tabby",
+    "url": "https://github.com/TabbyML/tabby",
+    "category": "Coding",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "cline",
+    "url": "https://github.com/cline/cline",
+    "category": "Coding",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "Roo-Code",
+    "url": "https://github.com/RooCodeInc/Roo-Code",
+    "category": "Coding",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "ComfyUI",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "category": "Image",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "category": "Image",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "InvokeAI",
+    "url": "https://github.com/invoke-ai/InvokeAI",
+    "category": "Image",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "Fooocus",
+    "url": "https://github.com/lllyasviel/Fooocus",
+    "category": "Image",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "category": "Image",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "category": "Image",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "whisper",
+    "url": "https://github.com/openai/whisper",
+    "category": "Audio",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "faster-whisper",
+    "url": "https://github.com/SYSTRAN/faster-whisper",
+    "category": "Audio",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "piper",
+    "url": "https://github.com/rhasspy/piper",
+    "category": "Audio",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "TTS",
+    "url": "https://github.com/coqui-ai/TTS",
+    "category": "Audio",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "demucs",
+    "url": "https://github.com/facebookresearch/demucs",
+    "category": "Audio",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "Retrieval-based-Voice-Conversion-WebUI",
+    "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+    "category": "Audio",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "category": "Data science",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "category": "Data science",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "category": "Data science",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "keras",
+    "url": "https://github.com/keras-team/keras",
+    "category": "Data science",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "category": "Data science",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "LightGBM",
+    "url": "https://github.com/microsoft/LightGBM",
+    "category": "Data science",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "xgboost",
+    "url": "https://github.com/dmlc/xgboost",
+    "category": "Data science",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "qdrant",
+    "url": "https://github.com/qdrant/qdrant",
+    "category": "RAG and infrastructure",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "chroma",
+    "url": "https://github.com/chroma-core/chroma",
+    "category": "RAG and infrastructure",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "category": "RAG and infrastructure",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "weaviate",
+    "url": "https://github.com/weaviate/weaviate",
+    "category": "RAG and infrastructure",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "haystack",
+    "url": "https://github.com/deepset-ai/haystack",
+    "category": "RAG and infrastructure",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "ragflow",
+    "url": "https://github.com/infiniflow/ragflow",
+    "category": "RAG and infrastructure",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "dify",
+    "url": "https://github.com/langgenius/dify",
+    "category": "RAG and infrastructure",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "Flowise",
+    "url": "https://github.com/FlowiseAI/Flowise",
+    "category": "RAG and infrastructure",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "llm-guard",
+    "url": "https://github.com/protectai/llm-guard",
+    "category": "AI security",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "garak",
+    "url": "https://github.com/NVIDIA/garak",
+    "category": "AI security",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "promptfoo",
+    "url": "https://github.com/promptfoo/promptfoo",
+    "category": "AI security",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "PyRIT",
+    "url": "https://github.com/microsoft/PyRIT",
+    "category": "AI security",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "docling",
+    "url": "https://github.com/docling-project/docling",
+    "category": "Documents",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "unstructured",
+    "url": "https://github.com/Unstructured-IO/unstructured",
+    "category": "Documents",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "category": "Documents",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "tesseract",
+    "url": "https://github.com/tesseract-ocr/tesseract",
+    "category": "Documents",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "CogVideo",
+    "url": "https://github.com/THUDM/CogVideo",
+    "category": "Video",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "Wan2.1",
+    "url": "https://github.com/Wan-Video/Wan2.1",
+    "category": "Video",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "LTX-Video",
+    "url": "https://github.com/Lightricks/LTX-Video",
+    "category": "Video",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "activepieces",
+    "url": "https://github.com/activepieces/activepieces",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "GitHub",
+    "description": "Repository candidate; review license and operating costs before use."
+  }
+]
