@@ -1,25 +1,25 @@
 import json
 from pathlib import Path
 from collections import defaultdict
+from urllib.parse import quote
+
 root = Path(__file__).resolve().parents[1]
-tools = json.loads((root / "data/tools.json").read_text())
-readme = root / "README.md"
-text = readme.read_text()
-prefix = text.split("## Tool directory")[0]
-import re
-prefix = re.sub(r'Catalog-\d+_tools', f'Catalog-{len(tools)}_tools', prefix)
-prefix = re.sub(r'alt="\d+ tools"', f'alt="{len(tools)} tools"', prefix)
+tools = json.loads((root / "data/tools.json").read_text(encoding="utf-8"))
 groups = defaultdict(list)
 for tool in tools:
     groups[tool["category"]].append(tool)
-lines = [prefix.rstrip(), "", "## Tool directory", "", f"**{len(tools):,} listings**", ""]
+lines = ["<p align=\"center\"><img src=\"assets/banner.svg\" alt=\"Free AI Tools Directory\" width=\"100%\"></p>\n\n# Free AI Tools Directory\n\nBrowse AI software, open-source projects and development resources across the categories actually present in the catalog.\n\n**[Explore the interactive directory](https://vaibcc.github.io/free-ai-tools-directory/)** · [Download full JSON catalog](data/tools.json) · [Suggest a project](https://github.com/vaibcc/free-ai-tools-directory/issues)\n\nCatalog inclusion does not guarantee that a project is free, actively maintained or independently verified. Check licenses, free-plan limits and hosting requirements.\n\n", "## Catalog overview", "", f"**{len(tools):,} listings · {len(groups)} populated categories**", "", "| Category | Listings | Browse |", "| --- | ---: | --- |"]
 for category, entries in sorted(groups.items()):
-    lines.extend([f"### {category} ({len(entries)})", ""])
-    for tool in sorted(entries, key=lambda x: x["name"].lower()):
+    anchor = category.lower().replace(" ", "-")
+    lines.append(f"| {category} | {len(entries):,} | [View examples](#{anchor}) |")
+lines.extend(["", "## Category highlights", ""])
+for category, entries in sorted(groups.items()):
+    lines.extend([f"### {category}", ""])
+    valid = [t for t in entries if t.get("url", "").startswith("https://")]
+    for tool in sorted(valid, key=lambda x: x["name"].lower())[:8]:
         name = tool["name"].replace("[", "\\[").replace("]", "\\]").replace("\n", " ")
-        url = tool["url"].replace(" ", "%20").replace(")", "%29")
-        if url.startswith("https://"):
-            lines.append(f"- [{name}]({url})")
-    lines.append("")
-lines.extend(["## Contributing", "", "Suggest additions or corrections through GitHub Issues.", ""])
-readme.write_text("\n".join(lines))
+        url = quote(tool["url"], safe=":/?&=#%+@")
+        lines.append(f"- [{name}]({url})")
+    lines.extend(["", "[Browse all listings on the website](https://vaibcc.github.io/free-ai-tools-directory/)", ""])
+lines.extend(["## Contributing", "", "Suggest additions or corrections through GitHub Issues. The catalog and this overview are refreshed automatically.", ""])
+(root / "README.md").write_text("\n".join(lines), encoding="utf-8")
