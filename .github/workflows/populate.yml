@@ -1,0 +1,39 @@
+name: Populate AI directory
+on:
+  push:
+    paths:
+      - '.github/workflows/populate.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '15 2 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: catalog-population
+  cancel-in-progress: false
+jobs:
+  populate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Discover candidates
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/discover.py --pages 10 --min-stars 1
+      - name: Update catalog
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/tools.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh AI tool catalog"
+            git pull --rebase origin main
+            git push origin main
+          fi
+          python -c 'import json; print("Catalog entries:", len(json.load(open("data/tools.json"))))'
