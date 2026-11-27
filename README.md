@@ -2,6 +2,18 @@
 
 # Free AI Tools Directory
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Catalog-31%2C563-007ec6" alt="Catalog listings">
+  <img src="https://img.shields.io/badge/Categories-18-16877c" alt="Populated categories">
+  <img src="https://img.shields.io/badge/Updates-Automated-8957e5" alt="Automated updates">
+  <img src="https://img.shields.io/badge/Access-Free-238636" alt="Free directory access">
+  <img src="https://img.shields.io/github/license/vaibcc/free-ai-tools-directory" alt="Repository license">
+  <img src="https://img.shields.io/badge/Hosting-GitHub%20Pages-555555" alt="GitHub Pages">
+  <img src="https://img.shields.io/github/stars/vaibcc/free-ai-tools-directory" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/vaibcc/free-ai-tools-directory" alt="GitHub forks">
+  <img src="https://img.shields.io/github/last-commit/vaibcc/free-ai-tools-directory" alt="Last commit">
+</p>
+
 Browse AI software, open-source projects and development resources across the categories actually present in the catalog.
 
 **[Explore the interactive directory](https://vaibcc.github.io/free-ai-tools-directory/)** · [Download full JSON catalog](data/tools.json) · [Suggest a project](https://github.com/vaibcc/free-ai-tools-directory/issues)
