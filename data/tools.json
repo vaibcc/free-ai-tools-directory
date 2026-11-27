@@ -494,5 +494,221 @@
     "status": "Unverified candidate",
     "source": "GitHub",
     "description": "Repository candidate; review license and operating costs before use."
+  },
+  {
+    "name": "Node-RED",
+    "url": "https://nodered.org",
+    "description": "Visual event-driven workflows",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "Windmill",
+    "url": "https://www.windmill.dev",
+    "description": "Script and workflow orchestration",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "Zapier",
+    "url": "https://zapier.com",
+    "description": "SaaS integrations and AI workflows",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "Make",
+    "url": "https://www.make.com",
+    "description": "Visual SaaS automation",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "Pipedream",
+    "url": "https://pipedream.com",
+    "description": "Developer integrations and workflows",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "IFTTT",
+    "url": "https://ifttt.com",
+    "description": "Event-driven service integrations",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "Langflow",
+    "url": "https://www.langflow.org",
+    "description": "Visual AI application development",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "Playwright",
+    "url": "https://playwright.dev",
+    "description": "Browser automation infrastructure",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "Selenium",
+    "url": "https://www.selenium.dev",
+    "description": "Browser automation infrastructure",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "Robot Framework",
+    "url": "https://robotframework.org",
+    "description": "Extensible automation framework",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "OpenRPA",
+    "url": "https://github.com/open-rpa/openrpa",
+    "description": "Robotic process automation",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "TagUI",
+    "url": "https://github.com/aisingapore/TagUI",
+    "description": "Robotic process automation",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "Apache Airflow",
+    "url": "https://airflow.apache.org",
+    "description": "Data workflow orchestration",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "Kestra",
+    "url": "https://kestra.io",
+    "description": "Event-driven orchestration",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "Prefect",
+    "url": "https://www.prefect.io",
+    "description": "Python workflow orchestration",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "Dagster",
+    "url": "https://dagster.io",
+    "description": "Data orchestration",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "Huginn",
+    "url": "https://github.com/huginn/huginn",
+    "description": "Event monitoring agents",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "Trigger.dev",
+    "url": "https://trigger.dev",
+    "description": "Background job orchestration",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "Inngest",
+    "url": "https://www.inngest.com",
+    "description": "Event-driven durable workflows",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "Home Assistant",
+    "url": "https://www.home-assistant.io",
+    "description": "Smart home automation and AI integrations",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "openHAB",
+    "url": "https://www.openhab.org",
+    "description": "Smart home automation infrastructure",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "Crawlee",
+    "url": "https://crawlee.dev",
+    "description": "Web crawling infrastructure",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "Scrapy",
+    "url": "https://scrapy.org",
+    "description": "Web extraction infrastructure",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
+  },
+  {
+    "name": "Firecrawl",
+    "url": "https://www.firecrawl.dev",
+    "description": "Web extraction for AI applications",
+    "category": "Automation",
+    "status": "Unverified candidate",
+    "source": "Manual seed",
+    "ai_role": "AI workflow or supporting infrastructure"
   }
 ]
