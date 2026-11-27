@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Categories-281-087f8c" alt="281 defined subcategories">
-  <img src="https://img.shields.io/badge/Catalog-62_candidates-blue" alt="62 candidates">
+  <img src="https://img.shields.io/badge/Catalog-62_tools-blue" alt="62 tools">
   <img src="https://img.shields.io/badge/Roadmap-10%2C000%2B-7558c9" alt="10,000+ target">
   <img src="https://img.shields.io/badge/Access-Free-198754" alt="Free directory access">
 </p>
@@ -21,7 +21,7 @@ A comprehensive, continuously updated directory of free AI tools, open-source pr
 
 **Roadmap: 10,000+ distinct tools · 281 defined subcategories**
 
-Current inventory: 62 candidate listings; free access verification pending. No claim of largest directory is made before verification.
+Free plans, licenses and hosting requirements vary by provider. Check current terms before use.
 
 ## Explore
 
@@ -97,98 +97,98 @@ Medical research · Bioinformatics · Drug discovery · Chemistry · Physics · 
 
 ### Local AI
 
-- [ollama](https://github.com/ollama/ollama) — candidate, verification pending
-- [llama.cpp](https://github.com/ggml-org/llama.cpp) — candidate, verification pending
-- [open-webui](https://github.com/open-webui/open-webui) — candidate, verification pending
-- [LocalAI](https://github.com/mudler/LocalAI) — candidate, verification pending
-- [text-generation-webui](https://github.com/oobabooga/text-generation-webui) — candidate, verification pending
-- [whisper.cpp](https://github.com/ggerganov/whisper.cpp) — candidate, verification pending
-- [llamafile](https://github.com/Mozilla-Ocho/llamafile) — candidate, verification pending
-- [vllm](https://github.com/vllm-project/vllm) — candidate, verification pending
-- [text-generation-inference](https://github.com/huggingface/text-generation-inference) — candidate, verification pending
+- [ollama](https://github.com/ollama/ollama)
+- [llama.cpp](https://github.com/ggml-org/llama.cpp)
+- [open-webui](https://github.com/open-webui/open-webui)
+- [LocalAI](https://github.com/mudler/LocalAI)
+- [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+- [whisper.cpp](https://github.com/ggerganov/whisper.cpp)
+- [llamafile](https://github.com/Mozilla-Ocho/llamafile)
+- [vllm](https://github.com/vllm-project/vllm)
+- [text-generation-inference](https://github.com/huggingface/text-generation-inference)
 
 ### AI agents
 
-- [langchain](https://github.com/langchain-ai/langchain) — candidate, verification pending
-- [langgraph](https://github.com/langchain-ai/langgraph) — candidate, verification pending
-- [autogen](https://github.com/microsoft/autogen) — candidate, verification pending
-- [crewAI](https://github.com/crewAIInc/crewAI) — candidate, verification pending
-- [llama_index](https://github.com/run-llama/llama_index) — candidate, verification pending
-- [OpenHands](https://github.com/All-Hands-AI/OpenHands) — candidate, verification pending
-- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — candidate, verification pending
-- [browser-use](https://github.com/browser-use/browser-use) — candidate, verification pending
+- [langchain](https://github.com/langchain-ai/langchain)
+- [langgraph](https://github.com/langchain-ai/langgraph)
+- [autogen](https://github.com/microsoft/autogen)
+- [crewAI](https://github.com/crewAIInc/crewAI)
+- [llama_index](https://github.com/run-llama/llama_index)
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands)
+- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+- [browser-use](https://github.com/browser-use/browser-use)
 
 ### Coding
 
-- [continue](https://github.com/continuedev/continue) — candidate, verification pending
-- [aider](https://github.com/Aider-AI/aider) — candidate, verification pending
-- [tabby](https://github.com/TabbyML/tabby) — candidate, verification pending
-- [cline](https://github.com/cline/cline) — candidate, verification pending
-- [Roo-Code](https://github.com/RooCodeInc/Roo-Code) — candidate, verification pending
+- [continue](https://github.com/continuedev/continue)
+- [aider](https://github.com/Aider-AI/aider)
+- [tabby](https://github.com/TabbyML/tabby)
+- [cline](https://github.com/cline/cline)
+- [Roo-Code](https://github.com/RooCodeInc/Roo-Code)
 
 ### Image
 
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) — candidate, verification pending
-- [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) — candidate, verification pending
-- [InvokeAI](https://github.com/invoke-ai/InvokeAI) — candidate, verification pending
-- [Fooocus](https://github.com/lllyasviel/Fooocus) — candidate, verification pending
-- [diffusers](https://github.com/huggingface/diffusers) — candidate, verification pending
-- [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) — candidate, verification pending
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+- [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [InvokeAI](https://github.com/invoke-ai/InvokeAI)
+- [Fooocus](https://github.com/lllyasviel/Fooocus)
+- [diffusers](https://github.com/huggingface/diffusers)
+- [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 
 ### Audio
 
-- [whisper](https://github.com/openai/whisper) — candidate, verification pending
-- [faster-whisper](https://github.com/SYSTRAN/faster-whisper) — candidate, verification pending
-- [piper](https://github.com/rhasspy/piper) — candidate, verification pending
-- [TTS](https://github.com/coqui-ai/TTS) — candidate, verification pending
-- [demucs](https://github.com/facebookresearch/demucs) — candidate, verification pending
-- [Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) — candidate, verification pending
+- [whisper](https://github.com/openai/whisper)
+- [faster-whisper](https://github.com/SYSTRAN/faster-whisper)
+- [piper](https://github.com/rhasspy/piper)
+- [TTS](https://github.com/coqui-ai/TTS)
+- [demucs](https://github.com/facebookresearch/demucs)
+- [Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
 
 ### Data science
 
-- [scikit-learn](https://github.com/scikit-learn/scikit-learn) — candidate, verification pending
-- [pytorch](https://github.com/pytorch/pytorch) — candidate, verification pending
-- [tensorflow](https://github.com/tensorflow/tensorflow) — candidate, verification pending
-- [keras](https://github.com/keras-team/keras) — candidate, verification pending
-- [transformers](https://github.com/huggingface/transformers) — candidate, verification pending
-- [LightGBM](https://github.com/microsoft/LightGBM) — candidate, verification pending
-- [xgboost](https://github.com/dmlc/xgboost) — candidate, verification pending
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn)
+- [pytorch](https://github.com/pytorch/pytorch)
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+- [keras](https://github.com/keras-team/keras)
+- [transformers](https://github.com/huggingface/transformers)
+- [LightGBM](https://github.com/microsoft/LightGBM)
+- [xgboost](https://github.com/dmlc/xgboost)
 
 ### RAG and infrastructure
 
-- [qdrant](https://github.com/qdrant/qdrant) — candidate, verification pending
-- [chroma](https://github.com/chroma-core/chroma) — candidate, verification pending
-- [milvus](https://github.com/milvus-io/milvus) — candidate, verification pending
-- [weaviate](https://github.com/weaviate/weaviate) — candidate, verification pending
-- [haystack](https://github.com/deepset-ai/haystack) — candidate, verification pending
-- [ragflow](https://github.com/infiniflow/ragflow) — candidate, verification pending
-- [dify](https://github.com/langgenius/dify) — candidate, verification pending
-- [Flowise](https://github.com/FlowiseAI/Flowise) — candidate, verification pending
+- [qdrant](https://github.com/qdrant/qdrant)
+- [chroma](https://github.com/chroma-core/chroma)
+- [milvus](https://github.com/milvus-io/milvus)
+- [weaviate](https://github.com/weaviate/weaviate)
+- [haystack](https://github.com/deepset-ai/haystack)
+- [ragflow](https://github.com/infiniflow/ragflow)
+- [dify](https://github.com/langgenius/dify)
+- [Flowise](https://github.com/FlowiseAI/Flowise)
 
 ### AI security
 
-- [llm-guard](https://github.com/protectai/llm-guard) — candidate, verification pending
-- [garak](https://github.com/NVIDIA/garak) — candidate, verification pending
-- [promptfoo](https://github.com/promptfoo/promptfoo) — candidate, verification pending
-- [PyRIT](https://github.com/microsoft/PyRIT) — candidate, verification pending
+- [llm-guard](https://github.com/protectai/llm-guard)
+- [garak](https://github.com/NVIDIA/garak)
+- [promptfoo](https://github.com/promptfoo/promptfoo)
+- [PyRIT](https://github.com/microsoft/PyRIT)
 
 ### Documents
 
-- [docling](https://github.com/docling-project/docling) — candidate, verification pending
-- [unstructured](https://github.com/Unstructured-IO/unstructured) — candidate, verification pending
-- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) — candidate, verification pending
-- [tesseract](https://github.com/tesseract-ocr/tesseract) — candidate, verification pending
+- [docling](https://github.com/docling-project/docling)
+- [unstructured](https://github.com/Unstructured-IO/unstructured)
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+- [tesseract](https://github.com/tesseract-ocr/tesseract)
 
 ### Video
 
-- [CogVideo](https://github.com/THUDM/CogVideo) — candidate, verification pending
-- [Wan2.1](https://github.com/Wan-Video/Wan2.1) — candidate, verification pending
-- [LTX-Video](https://github.com/Lightricks/LTX-Video) — candidate, verification pending
+- [CogVideo](https://github.com/THUDM/CogVideo)
+- [Wan2.1](https://github.com/Wan-Video/Wan2.1)
+- [LTX-Video](https://github.com/Lightricks/LTX-Video)
 
 ### Automation
 
-- [n8n](https://github.com/n8n-io/n8n) — candidate, verification pending
-- [activepieces](https://github.com/activepieces/activepieces) — candidate, verification pending
+- [n8n](https://github.com/n8n-io/n8n)
+- [activepieces](https://github.com/activepieces/activepieces)
 
 ## Discovery
 
